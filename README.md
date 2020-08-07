@@ -1,4 +1,4 @@
-# optimization_techniques-single_variable
+# Optimization_Techniques(single_variable)
 This is an implementation of 9 different optimization-algorithms (single variable). The algorithms are created to find the minima for given convex function.
 The following are the 9 algorithms implemented
 1) Exhaustive search algorithm
